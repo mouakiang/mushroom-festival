@@ -74,10 +74,6 @@ function displayFriends() {
                 displayFriends();
                 displayMushrooms();
             }
-
-            // clear out and display the updated friends and mushrooms (hint: displayFriends, displayMushrooms)
-
-            // append the friendEl to the friends list in DOM
         });
 
         friendsEl.append(friendEl);
